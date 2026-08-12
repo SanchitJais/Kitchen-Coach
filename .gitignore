@@ -1,0 +1,38 @@
+# Environment variables (secrets)
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AI tool configs (local)
+.claude/
+.agents/
+.mcp.json
+skills-lock.json
+
+# Build artifacts
+*.local
+*.tsbuildinfo
+
+# Vite
+bun.lockb
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Workspace
+.workspace/
