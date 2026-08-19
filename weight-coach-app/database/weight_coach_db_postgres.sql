@@ -1,5 +1,5 @@
 -- ============================================================
--- WEIGHT COACH APP - Complete Database System
+-- KITCHEN COACH APP - Complete Database System
 -- Based on ER Diagram and Project Documentation
 -- ============================================================
 
@@ -345,7 +345,7 @@ INSERT INTO meal_logs (user_id, recipe_id, consumed_date, rating) VALUES
 
 
 -- ============================================================
--- USEFUL QUERIES FOR THE WEIGHT COACH APP
+-- USEFUL QUERIES FOR THE KITCHEN COACH APP
 -- ============================================================
 
 -- Q1: Ingredients expiring within the next 3 days (waste prevention alerts)

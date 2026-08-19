@@ -10,7 +10,7 @@ const OWNER_USER: User = {
   id: OWNER_USER_ID,
   aud: "authenticated",
   role: "authenticated",
-  email: "owner@weightcoach.app",
+  email: "owner@kitchencoach.app",
   created_at: new Date().toISOString(),
   app_metadata: {},
   user_metadata: { name: "Owner" },

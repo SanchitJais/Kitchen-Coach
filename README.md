@@ -1,4 +1,4 @@
-# Weight Coach — Advanced SQL Project (21CSC205P)
+# Kitchen Coach — Advanced SQL Project (21CSC205P)
 
 AI-based nutrition and kitchen management app, built as the Advanced SQL
 course project. The working app lives in [`weight-coach-app/`](weight-coach-app);

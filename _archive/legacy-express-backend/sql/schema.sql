@@ -1,14 +1,14 @@
 -- ============================================================
---  WEIGHT COACH APP — Fully Normalized Schema (1NF → 5NF)
+--  KITCHEN COACH APP — Fully Normalized Schema (1NF → 5NF)
 --  Database: MySQL 8.0
 -- ============================================================
 
-DROP DATABASE IF EXISTS weight_coach_db;
-CREATE DATABASE weight_coach_db
+DROP DATABASE IF EXISTS kitchen_coach_db;
+CREATE DATABASE kitchen_coach_db
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE weight_coach_db;
+USE kitchen_coach_db;
 
 SET FOREIGN_KEY_CHECKS = 0;
 

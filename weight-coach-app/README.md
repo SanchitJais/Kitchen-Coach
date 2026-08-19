@@ -1,4 +1,4 @@
-# Weight Coach App
+# Kitchen Coach App
 
 AI-based nutrition and kitchen management web app — single-owner mode.
 

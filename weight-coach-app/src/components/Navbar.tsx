@@ -20,7 +20,7 @@ export default function Navbar() {
       <div className="container flex items-center justify-between h-16">
         <Link to="/" className="flex items-center gap-2 font-display text-xl font-bold text-primary">
           <ChefHat className="h-6 w-6" />
-          Weight Coach
+          Kitchen Coach
         </Link>
 
         <div className="hidden md:flex items-center gap-1">

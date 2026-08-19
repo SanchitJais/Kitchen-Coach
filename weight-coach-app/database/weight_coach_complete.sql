@@ -1,5 +1,5 @@
 -- ============================================================
---  WEIGHT COACH APP  ·  Complete Database System
+--  KITCHEN COACH APP  ·  Complete Database System
 --  Course  : 21CSC205P  Database Management Systems
 --  DB      : MySQL 8.0
 --  Covers  : DDL · DML · Constraints · Aggregate Functions
@@ -11,12 +11,12 @@
 -- SECTION 0 : DATABASE SETUP
 -- ============================================================
 
-DROP DATABASE IF EXISTS weight_coach_db;
-CREATE DATABASE weight_coach_db
+DROP DATABASE IF EXISTS kitchen_coach_db;
+CREATE DATABASE kitchen_coach_db
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE weight_coach_db;
+USE kitchen_coach_db;
 
 SET FOREIGN_KEY_CHECKS = 0;
 SET SQL_MODE = 'STRICT_TRANS_TABLES,NO_ZERO_DATE,NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO';
@@ -1018,5 +1018,5 @@ ORDER BY meals_logged DESC;
 
 
 -- ============================================================
--- END OF WEIGHT COACH APP DATABASE SCRIPT
+-- END OF KITCHEN COACH APP DATABASE SCRIPT
 -- ============================================================

@@ -11,6 +11,8 @@ dist-ssr/
 # OS files
 .DS_Store
 Thumbs.db
+~$*
+*.tmp
 
 # AI tool configs (local)
 .claude/

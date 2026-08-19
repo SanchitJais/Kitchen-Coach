@@ -24,7 +24,7 @@ export default function Index() {
               <Leaf className="h-4 w-4" /> Eat smarter, waste less
             </span>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-foreground leading-tight">
-              Your Personal <span className="text-primary">Weight Coach</span> & Kitchen Manager
+              Your Personal <span className="text-primary">Kitchen Coach</span> & Meal Planner
             </h1>
             <p className="mt-4 text-lg text-muted-foreground max-w-xl mx-auto">
               Manage ingredients, discover recipes, track meals, and reduce food waste — all in one beautiful app.
@@ -80,7 +80,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="border-t py-8">
         <div className="container text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Weight Coach App. Built with ❤️
+          © {new Date().getFullYear()} Kitchen Coach App. Built with ❤️
         </div>
       </footer>
     </div>

@@ -1,7 +1,7 @@
 {
-  "name": "weight-coach-backend",
+  "name": "kitchen-coach-backend",
   "version": "1.0.0",
-  "description": "Weight Coach App - Backend API",
+  "description": "Kitchen Coach App - Backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

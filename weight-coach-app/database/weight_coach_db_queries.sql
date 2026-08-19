@@ -1,9 +1,9 @@
 -- ============================================================
--- WEIGHT COACH APP - DBMS Practical Queries Document
--- Database: weight_coach_db (MySQL 8.0)
+-- KITCHEN COACH APP - DBMS Practical Queries Document
+-- Database: kitchen_coach_db (MySQL 8.0)
 -- ============================================================
 
-USE weight_coach_db;
+USE kitchen_coach_db;
 
 
 -- ============================================================

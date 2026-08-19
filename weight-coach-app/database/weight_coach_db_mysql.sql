@@ -1,5 +1,5 @@
 -- ============================================================
--- WEIGHT COACH APP - Complete Database System
+-- KITCHEN COACH APP - Complete Database System
 -- MySQL 8.0 Compatible Version
 -- Based on ER Diagram and Project Documentation
 -- ============================================================
@@ -352,7 +352,7 @@ INSERT INTO meal_logs (user_id, recipe_id, consumed_date, rating) VALUES
 
 
 -- ============================================================
--- USEFUL QUERIES FOR THE WEIGHT COACH APP (MySQL syntax)
+-- USEFUL QUERIES FOR THE KITCHEN COACH APP (MySQL syntax)
 -- ============================================================
 
 -- Q1: Ingredients expiring within the next 3 days (waste prevention alerts)
